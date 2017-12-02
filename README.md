@@ -1,7 +1,6 @@
 ## Walk the dir
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/walk.svg)](https://greenkeeper.io/)
-
 [![Build Status](https://travis-ci.org/axetroy/walk.svg?branch=master)](https://travis-ci.org/axetroy/walk)
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 
