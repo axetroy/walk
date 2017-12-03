@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/axetroy/walk.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Axetroy",
+  "license": "Apache",
   "bugs": {
     "url": "https://github.com/axetroy/walk/issues"
   },
