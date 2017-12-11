@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/axetroy/walk#readme",
   "dependencies": {
-    "fs-extra": "^4.0.2"
+    "fs-extra": "^5.0.0"
   }
 }
