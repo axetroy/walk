@@ -1,5 +1,12 @@
 .idea
+.github
 .vscode
 *.log
 node_modules
 examples
+.editorconfig
+.all-contributorsrc
+.gpmrc
+.travis.yml
+contributing.md
+*.lock
